@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+diffuision-model_4.ipynb
+
+# Generated Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+bulk_outputs/
+output_images/
+Images/
+
+# Model Cache (Hugging Face)
+models/
+.cache/
+huggingface/
+
+# PyTorch
+*.pth
+*.pt
+checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Personal/Test files
+gg.py
+payo.txt
+csv/
+
+# Temp files
+tmp/
+temp/
+*.tmp
+
+# Logs
+*.log
+logs/
+
+# Folders
+New folder/
