@@ -57,7 +57,7 @@ All scripts are tested and working on Kaggle's environment.
 If you have your own GPU:
 
 ```bash
-git clone https://github.com/yourusername/stable-diffusion-kaggle.git
+git clone https://github.com/pasan2002/stable-diffusion-Kaggle
 cd stable-diffusion-kaggle
 pip install -r requirements.txt
 python sdxl_script.py
